@@ -1,2 +1,3 @@
 # FosterClickStory
- Social Change game: Foster Care Example
+ Social Change game: Foster Care
+ Class Set Up
